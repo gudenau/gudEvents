@@ -1,0 +1,6 @@
+# Gradle stuff
+/.gradle/*
+/build/*
+
+# IDE stuff
+/.idea/*
